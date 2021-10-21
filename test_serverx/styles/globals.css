@@ -1,0 +1,143 @@
+body {
+    background: #e0e0e0;
+    color: #333;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color: #333;
+    text-decoration: non
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    max-width: 90%;
+}
+
+.headArea {
+    border-radius: 10px;
+    box-shadow: 0 2px 3px mediumpurple;
+    background: #fff;
+}
+
+.headmain {
+    margin: 10px auto 30px;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menux {
+    box-shadow: 0 1px 3px mediumpurple;
+    border-radius: 10px;
+    margin: .5em 0 0 0;
+    background: #fff;
+}
+
+.menu {
+    min-width: 15%;
+}
+
+.company h4 {
+    font-size: 1em;
+    padding: 0 1em;
+    font-weight: 600;
+}
+
+.mainArea {
+    margin: 0 4em;
+    width: 70%;
+}
+
+.right-align a {
+    margin-left: 12px;
+    margin-right: 20px;
+}
+
+.right-align {
+    display: flex;
+}
+
+.left-align {
+    display: flex;
+}
+
+.left-align h3 {
+    margin-left: 20px;
+    font-size: 1em;
+}
+
+.DataArea {
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 0 2px .3px mediumpurple;
+    background: #fff;
+    padding: 1em
+}
+
+.newproj {
+    font-size: 1em;
+    display: inline-block;
+}
+
+.newproj a {
+    text-decoration: none;
+    margin-left: 0.8em;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.projectData tr {
+    padding: 2em 0 0 0;
+}
+
+.projectData td {
+    padding: 1em 0;
+    vertical-align: top;
+}
+
+form {
+    max-width: 60%;
+    box-shadow: 0 2px 2px mediumpurple;
+    border-radius: 20px;
+    padding: 2em;
+}
+
+.form-title {
+    text-align: center;
+}
+
+th {
+    padding: 0 0 1em 0;
+}
+
+td h3 {
+    font-size: .9em;
+}
+
+td img {
+    width: 50px;
+    border-radius: 30%;
+}
+
+img {
+    margin: 0 15px 0 0;
+}
+
+svg {
+    margin: 0 0 0 10px;
+}
+
+#proj {
+    display: flex;
+    width: 100%;
+}
+
+#others {
+    width: 20%;
+}

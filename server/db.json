@@ -1,0 +1,57 @@
+{
+  "projects": [{
+      "name": "Smart Cities Batch 3 Program in Thailand",
+      "teaser": "This is the project teaser.",
+      "image": "https://via.placeholder.com/150",
+      "type": "Investment",
+      "deadline": "5-5-2012",
+      "applications": 2,
+      "id": 1
+    },
+    {
+      "name": "Founders Lunch - Monthly Peer Exchange in Beijing",
+      "teaser": "This is the project teaser.",
+      "image": "https://via.placeholder.com/150",
+      "type": "Acceleration",
+      "deadline": "5-5-2012",
+      "applications": 2,
+      "id": 2
+    },
+    {
+      "name": "Hult Prize on Campus Project - Win up to 1 Million USD",
+      "teaser": "This is the project teaser.",
+      "image": "https://via.placeholder.com/150",
+      "type": "Investment",
+      "deadline": "5-5-2012",
+      "applications": 2,
+      "id": 3
+    },
+    {
+      "name": "Batch 11 of Intel® GrowthX Acceleration Program",
+      "teaser": "This is the project teaser.",
+      "image": "https://via.placeholder.com/150",
+      "type": "Investment",
+      "deadline": "5-5-2012",
+      "applications": 2,
+      "id": 4
+    },
+    {
+      "name": "Hangzhou Landing Program - Up to 1,5 Million RMB Incentive for International Startups",
+      "teaser": "This is the project teaser.",
+      "image": "https://via.placeholder.com/150",
+      "type": "Landing Program",
+      "deadline": "5-5-2012",
+      "applications": 2,
+      "id": 5
+    },
+    {
+      "name": "Free China IPR advice for European SMEs & Startups",
+      "teaser": "This is the project teaser.",
+      "image": "https://via.placeholder.com/150",
+      "type": "Investment",
+      "deadline": "5-5-2012",
+      "applications": 2,
+      "id": 6
+    }
+  ]
+}
