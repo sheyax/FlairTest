@@ -1,0 +1,2 @@
+# FlairTest
+Nextjs project test 
