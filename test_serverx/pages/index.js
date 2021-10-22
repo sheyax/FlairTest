@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 
  
@@ -10,13 +10,18 @@ export default function Home() {
 
   return (
     
-    <div>
+    <div classname="container_home" >
 
-      <h1> test data fetch and display</h1>
-      <ul>
-      <a href="/projects"> See Projects</a>
-      <a href="/newproject">Add Project</a>
-</ul>
+    <div className="HomeArea">
+
+      <h1> Welcome to Flair Homework Test </h1>
+      </div>
+
+    <div className="homeproj">
+        <Link href="/projects"><a>
+          Project Page</a></Link>
     </div>
+    </div>
+    
   )
 }

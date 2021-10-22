@@ -22,6 +22,24 @@ a {
     background: #fff;
 }
 
+.HomeArea {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 10em 10em 0;
+    text-align: center;
+}
+
+.homeproj {
+    max-width: 20%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2em;
+}
+
+.homeproj a {
+    text-decoration: none;
+}
+
 .headmain {
     margin: 10px auto 30px;
     padding: 10px 0;
